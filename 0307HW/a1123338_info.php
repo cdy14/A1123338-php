@@ -24,3 +24,4 @@
     echo "你的期待程度是：".$uLike."<br>";
     echo "你的建議是："."<br>".nl2br($uComment)."<br>";
 
+?>
